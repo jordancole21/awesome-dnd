@@ -129,7 +129,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Name generators*
 
 * [Fantasy Name Generators](http://fantasynamegenerators.com)
-* [Fantasy Name Generators](http://fantasynamegenerators.com)
 
 ## Maps
 
