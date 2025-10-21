@@ -98,7 +98,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [Treasure Generator](http://redkatart.com/dnd5tools)
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-* [Weak Magic Items](https://mapmeapp.com/weak-magic-items)
+* [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 * [SkullSplitter Dice D&D 5e Tools & Resources](https://www.skullsplitterdice.com/pages/dnd-5e-tools-resources)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
 
