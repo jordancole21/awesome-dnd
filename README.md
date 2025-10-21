@@ -236,7 +236,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Fantasy Grounds](http://store.steampowered.com/app/252690)
 * [RP Tools](http://www.rptools.net)
 * [Dungeonographer](http://www.dungeonographer.com/free-version)
-* [Roll20](https://roll20.net/)
+* [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
 * [Realm Works](http://www.wolflair.com/realmworks)
 * [Inspiration Pad Pro 3 (Random Tables)](http://www.nbos.com/products/inspiration-pad-pro/android)
