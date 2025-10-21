@@ -69,7 +69,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [D&D 5e Spell List](https://dnd.sharov.dev/) - Interactive D&D spell list / calculator
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
 * [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
-* [Pathguy Character Generator](http://www.pathguy.com/ddnext.htm) - A web-based character creation tool that uses SRD sources
+* [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
 * [Groctel’s Character Sheets](https://www.reddit.com/r/DnD/comments/62ry9x/oc_dnd5e_hd_fully_customisable_and_translatable) - Custom character sheet by [/u/Groctel](https://www.reddit.com/user/Groctel/)
 * [Monstrous Races](https://www.dmsguild.com/product/230312/Monstrous-Races) - This document presents rules for playing every creature in the Monster Manual
 
@@ -87,7 +87,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Track your campaigns here*
 
-* [Dungeonomics](http://dungeonomics.com) - A tool for Dungeon Masters to manage campaign notes
+* [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
 
 ## Treasure
@@ -98,8 +98,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [Treasure Generator](http://redkatart.com/dnd5tools)
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
-* [Weak Magic Items](http://www.lordbyng.net/inspiration/results.php)
-* [Mithril And Mages Treasure](http://www.mithrilandmages.com/RPG.php#dd5e)
+* [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
 
 ## NPC
@@ -110,7 +109,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Cellule's NPC Generator](http://www.npcgenerator.com/) - source code https://github.com/cellule/dndGenerator
 * [Total Party Kill NPC Generator](http://character.totalpartykill.ca/5e)
 * [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
-* [NPCbase](http://www.npcbase.com) - Background generator for NPCs
 * [Subclass Statblocks](https://www.gmbinder.com/share/-L7WtgGX2N9hBqsn1-7V) - Also includes CR ratings for each subclass
 
 ## Encounter
@@ -131,7 +129,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Name generators*
 
 * [Fantasy Name Generators](http://fantasynamegenerators.com)
-* [Mithril And Mages Name Gen](http://www.mithrilandmages.com)
 
 ## Maps
 
@@ -159,7 +156,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Generate all the things!*
 
 * [Taverns](http://inkwellideas.com/free-tools/random-inn-generator-floorplan)
-* [Mithril and Mages](http://www.mithrilandmages.com)
+* [Donjon](http://donjon.bin.sh)
 * [Dungeon & Town Quick](http://dmtools.tumblr.com)
 * [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
 * [Pymapper](http://pymapper.com)
@@ -228,7 +225,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Various websites*
 
-* [History of the Forgotten Realms](http://dnd.eizzn.com) - Interactive calendar of the history of the Realms
+* [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms
 * [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
 * [Conjuration List](http://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
 
