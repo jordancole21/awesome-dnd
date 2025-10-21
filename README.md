@@ -109,7 +109,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Cellule's NPC Generator](http://www.npcgenerator.com/) - source code https://github.com/cellule/dndGenerator
 * [Total Party Kill NPC Generator](http://character.totalpartykill.ca/5e)
 * [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
-* [Loreify AI NPC Generator](https://loreify.ai/tools/ai/dnd-npc-generator) - Background generator for NPCs
 * [Subclass Statblocks](https://www.gmbinder.com/share/-L7WtgGX2N9hBqsn1-7V) - Also includes CR ratings for each subclass
 
 ## Encounter
