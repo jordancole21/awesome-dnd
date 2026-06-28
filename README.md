@@ -16,6 +16,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Maps](#maps)
     - [Tokens](#tokens)
     - [Generator](#generator)
+    - [AI Game Masters](#ai-game-masters)
     - [Virtual Tabletops](#virtual-tabletops)
     - [Updated Rules](#updated-rules)
     - [Converter](#converter)
@@ -167,6 +168,13 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
+
+## AI Game Masters
+
+*AI-driven tools that run the game itself — narration, NPCs, and rules.*
+
+* [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
+* [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
 
 ## Virtual Tabletops
 
