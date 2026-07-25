@@ -16,8 +16,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Maps](#maps)
     - [Tokens](#tokens)
     - [Generator](#generator)
+    - [AI Game Masters](#ai-game-masters)
     - [Virtual Tabletops](#virtual-tabletops)
-    - [Updated Rules](#updated-rules)
     - [Converter](#converter)
     - [Subreddits](#subreddits)
     - [YouTube Channels](#youtube-channels)
@@ -40,11 +40,11 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Resources of epic proportions!*
 
 * [D&D Beyond](https://www.dndbeyond.com) - Official D&D 5E compendium
-* [5E SRD](http://www.5esrd.com) - System Reference Document
-* [DM's Guild](http://www.dmsguild.com) - Official place to buy modules and stuff
-* [Homebrewery](http://homebrewery.naturalcrit.com) - Create your own content that looks official
+* [5E SRD](https://www.5esrd.com) - System Reference Document
+* [DM's Guild](https://www.dmsguild.com) - Official place to buy modules and stuff
+* [Homebrewery](https://homebrewery.naturalcrit.com) - Create your own content that looks official
 * [GMbinder](https://www.gmbinder.com) - Create and curate homebrew content
-* [Donjon](http://donjon.bin.sh) - Awesome resource for everything!
+* [Donjon](https://donjon.bin.sh) - Awesome resource for everything!
 * [Massive DM's Toolkit](https://www.reddit.com/r/DnDBehindTheScreen/comments/7nqfgh/massive_dms_toolkit_online_resources) - Tons of online DM resources
 * [The Dungeon Master's Toolkit](https://www.reddit.com/r/DnD/comments/7mzoyj/the_dungeons_masters_tool_kit_useful_links) - More DM resources
 * [r/dndnext's Resourcelist](https://www.reddit.com/r/dndnext/wiki/resourcelist) - List of various 5E resources
@@ -56,7 +56,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Sites with pre-made adventures*
 
-* [5E Adventures by level](https://merricb.com/dungeons-dragons-5e-adventures-by-level) - Links to 100's of 5E adventures
+* [Adventure Lookup](https://www.adventurelookup.com/adventures) - Searchable collection of tabletop RPG adventures
 
 
 ## Character Building
@@ -66,7 +66,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Dungeon Master's Vault](https://www.dungeonmastersvault.com) - **Replaces Orc Pub/Orc Pub 2**. Almost a mega resource, has lots of stuff!
 * [D&D Beyond: Characters](https://www.dndbeyond.com/characters) - Official D&D character resource
 * [D&D Beyond: Spell list](https://www.dndbeyond.com/spells) - Official D&D spell list
-* [D&D 5e Spell List](https://dnd.sharov.dev/) - Interactive D&D spell list / calculator
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
 * [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
 * [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
@@ -78,7 +77,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Where to buy/customize figurines*
 
 * [Hero Forge Custom Figs](https://www.heroforge.com) - Design your own custom 3D miniatures for purchase with a ton of features including full color
-* [Desktop Hero](http://desktophero3d.com/) - Design your own custom 3D miniatures for purchase
+* [Titancraft](https://titancraft.com) - Design your own custom 3D miniatures for purchase
 * [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis
 * [Anvl](https://anvl.co) - Custom miniatures
 * [Eldritch Foundry](https://eldritch-foundry.com/) - Even more custom miniatures
@@ -89,14 +88,14 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Kanka](https://kanka.io/) - A tool for Dungeon Masters to manage campaign notes
 * [Obsidian Portal](https://www.obsidianportal.com) - A one stop portal for the whole party to share a wiki, blog posts, maps, and other campaign resources
+* [ScryRPG](https://scryrpg.com/) - A shared campaign manager with party inventory, character sheets, shops, loot, a linked lore wiki, and an AI familiar
 
 ## Treasure
 
 *Loot and store guides*
 
 * [D&D Beyond: Items](https://www.dndbeyond.com/items)
-* [Magic Items by Rarity](http://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-* [Treasure Generator](http://redkatart.com/dnd5tools)
+* [Magic Items by Rarity](https://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
@@ -105,9 +104,9 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Tools for creating NPCs*
 
-* [RPG Tinker](http://rpgtinker.com)
-* [Cellule's NPC Generator](http://www.npcgenerator.com/) - source code https://github.com/cellule/dndGenerator
-* [Total Party Kill NPC Generator](http://character.totalpartykill.ca/5e)
+* [RPG Tinker](https://rpgtinker.com)
+* [Cellule's NPC Generator](https://www.npcgenerator.com/) - source code https://github.com/cellule/dndGenerator
+* [Total Party Kill NPC Generator](https://character.totalpartykill.ca/5e)
 * [Google Sheets NPC Generator](https://docs.google.com/spreadsheets/d/1uyre7jYpD1fQG4U9rqJdwUkga6sjCUmJovFzo6gxLUQ/edit#gid=553603978)
 * [Subclass Statblocks](https://www.gmbinder.com/share/-L7WtgGX2N9hBqsn1-7V) - Also includes CR ratings for each subclass
 
@@ -117,10 +116,9 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
 * [Kobold club encounter builder](https://koboldplus.club/)
-* [Poison generator](http://orteil.dashnet.org/randomgen/?gen=vMMEtKRA)
-* [Monsters by Challenge Rating 1.0](http://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
-* [Monsters by Type 1.0](http://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
-* [Improved Initiative](http://www.improved-initiative.com)
+* [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
+* [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
+* [Improved Initiative](https://improvedinitiative.app/)
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
@@ -128,7 +126,8 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Name generators*
 
-* [Fantasy Name Generators](http://fantasynamegenerators.com)
+* [Fantasy Name Generators](https://fantasynamegenerators.com)
+* [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more
 * [Japanese Name Generator](https://japanesenamegen.com) - Authentic Japanese names with real kanji, readings and meanings; handy for eastern-inspired settings like Kara-Tur
 
 ## Maps
@@ -142,7 +141,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Pre-made maps of all types*
 
-* [Historic Cities](http://historic-cities.huji.ac.il/historic_cities.html) - Olde maps of real places
+* [Historic Cities](https://www.reddit.com/r/DnD/comments/63thg0/a_collection_of_around_400_historical_city_maps/) - Olde maps of real places
 
 ## Tokens
 
@@ -156,18 +155,26 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Generate all the things!*
 
-* [Taverns](http://inkwellideas.com/free-tools/random-inn-generator-floorplan)
-* [Donjon](http://donjon.bin.sh)
-* [Dungeon & Town Quick](http://dmtools.tumblr.com)
+* [Orteil's Random Generators](https://orteil.dashnet.org/randomgen) - A collection of random generators by Orteil
+* [Taverns](https://inkwellideas.com/free-tools/random-inn-generator-floorplan)
+* [Donjon](https://donjon.bin.sh)
+* [Dungeon & Town Quick](https://dmtools.tumblr.com)
 * [Stores (with inventories)](https://docs.google.com/spreadsheets/d/1FCNPBMZm6tWfeOEtdOvcOrWDRZVqbe1ipzK9eQmNp2o/edit)
-* [Pymapper](http://pymapper.com)
-* [Dave's Mapper](http://davesmapper.com)
-* [Inkarnate](http://inkarnate.com)
-* [Pyromancers' Dungeon Painter](http://pyromancers.com/dungeon-painter-online)
+* [Pymapper](https://pymapper.com)
+* [Dave's Mapper](https://davesmapper.com)
+* [Inkarnate](https://inkarnate.com)
 * [Village generator](https://watabou.itch.io/village-generator)
 * [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
 * [Perilous Shores](https://watabou.itch.io/perilous-shores)
+* [Mystic Waffle](https://www.mysticwaffle.com) - Free procedural dungeon and loot generator with a grid-based map drawing suite
+
+## AI Game Masters
+
+*AI-driven tools that run the game itself — narration, NPCs, and rules.*
+
+* [Neural Initiative](https://neuralinitiative.ai) - Hosted AI Dungeon Master for 5e: persistent campaign memory, a coded rules engine with real dice, voice narration, solo or up to four players in the browser.
+* [claude-dnd-skill](https://github.com/neuralinitiative/claude-dnd-skill) - Open-source AI DM for Claude Code; the engine Neural Initiative is built on.
 
 ## Virtual Tabletops
 
@@ -178,22 +185,13 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
 * [Roll20](https://roll20.net) - A browser-based suite of tools that allows users to create and play tabletop role playing games
 
-## Updated Rules
-
-*Always more rules*
-
-* [Sage Advice Compendium](http://media.wizards.com/2016/downloads/DND/SA-Compendium.pdf)
-* [D&D Beyond: Compendium](https://www.dndbeyond.com/compendium)
-* [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
-* [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
-
 ## Converter
 
 *Convert stuff from older editons to 5E*
 
 * [Conversion Guide](https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf) - Conversion guide from Wizards of the Coast to convert characters and adventures to fifth edition of D&D
-* [Skip's Guide To Monsters - Part 1](http://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
-* [Forgotten Realms Conversion Guide](http://homebrewery.naturalcrit.com/share/S1XjggDT7M) - 5e conversions of 3e Forgotten Realms monsters
+* [Skip's Guide To Monsters - Part 1](https://homebrewery.naturalcrit.com/share/HkWdLqfHSM) - 5e conversions of 3e monsters
+* [Forgotten Realms Conversion Guide](https://homebrewery.naturalcrit.com/share/S1XjggDT7M) - 5e conversions of 3e Forgotten Realms monsters
 
 ## Subreddits
 
@@ -228,19 +226,18 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [Alphastream's Forgotten Realms Timeline](https://alphastream.org/index.php/2020/04/09/the-official-timeline-for-the-forgotten-realms-and-its-adventures/) - Interactive calendar of the history of the Realms
 * [Broderick's Compendium: Plants and Fungi Across the Realm](https://www.reddit.com/r/DnD/comments/83oupp/brodericks_compendium_plants_and_fungi_across_the/) - Guide to over 600 fantasy plants for druids, poisoners, potion-crafters, and herbalists
-* [Conjuration List](http://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
+* [Conjuration List](https://imgur.com/a/nZqbW) - A table of all beasts, celestials, elementals, fey, and fiends that your PC's may conjure with Conjure Animals, Conjure Celestial, Conjure Elemental, Conjure Fey
 
 # Desktop Applications
 
 *Things to download and install*
 
-* [Fantasy Grounds](http://store.steampowered.com/app/252690)
-* [RP Tools](http://www.rptools.net)
-* [Dungeonographer](http://www.dungeonographer.com/free-version)
+* [Fantasy Grounds](https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/)
+* [RP Tools](https://www.rptools.net)
+* [Worldographer](https://worldographer.com)
 * [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
-* [Realm Works](http://www.wolflair.com/realmworks)
-* [Inspiration Pad Pro 3 (Random Tables)](http://www.nbos.com/products/inspiration-pad-pro/android)
+* [Realm Works](https://www.wolflair.com/realmworks)
 
 # Mobile Applications
 
@@ -254,7 +251,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire) - ![Android][android] A character sheet manager
 * [Fifth Edition Character Sheet](https://play.google.com/store/apps/details?id=com.wgkammerer.testgui.basiccharactersheet.app) - ![Android][android] A complete multiple page character sheet for a fifth edition tabletop role playing game
 * [Fight Club 5th Edition](https://itunes.apple.com/us/app/fight-club-5th-edition/id901057473?mt=8) - ![Apple][apple] A digital character sheet that can be all you need to play a Dungeons & Dragons 5th Edition game
-* [Hero Lab (IPad Only)](https://itunes.apple.com/au/app/hero-lab/id628821549?mt=8) - ![Apple][apple] Create, advance, and play Pathfinder & 5th Edition SRD characters and NPCs
 
 ## Generator
 
@@ -273,14 +269,13 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus) - ![Android][android]
-* [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory) - ![Android][android]
 
 # Audio and Music
 
 *Add some sounds to your gameplay!*
 
-* [Tabletop Audio](http://tabletopaudio.com)
-  * [D&D sounds ready to mix](http://bit.ly/2fZ4ypf)
+* [Tabletop Audio](https://tabletopaudio.com)
+  * [D&D sounds ready to mix](https://bit.ly/2fZ4ypf)
 * [Syrinscape](https://syrinscape.com)
 * [Ambient Mixer D&D sounds](https://www.ambient-mixer.com/s/d&d)
 
