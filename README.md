@@ -114,7 +114,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
 * [Kobold club encounter builder](https://koboldplus.club/)
-* [Orteil's Random Generators](https://orteil.dashnet.org/randomgen) - A collection of random generators by Orteil
 * [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 * [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 * [Improved Initiative](https://improvedinitiative.app/)
@@ -152,6 +151,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Generate all the things!*
 
+* [Orteil's Random Generators](https://orteil.dashnet.org/randomgen) - A collection of random generators by Orteil
 * [Taverns](https://inkwellideas.com/free-tools/random-inn-generator-floorplan)
 * [Donjon](https://donjon.bin.sh)
 * [Dungeon & Town Quick](https://dmtools.tumblr.com)
