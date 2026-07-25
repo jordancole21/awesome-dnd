@@ -17,7 +17,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Tokens](#tokens)
     - [Generator](#generator)
     - [Virtual Tabletops](#virtual-tabletops)
-    - [Updated Rules](#updated-rules)
     - [Converter](#converter)
     - [Subreddits](#subreddits)
     - [YouTube Channels](#youtube-channels)
@@ -56,7 +55,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Sites with pre-made adventures*
 
-* [5E Adventures by level](https://merricb.com/dungeons-dragons-5e-adventures-by-level) - Links to 100's of 5E adventures
+* [Adventure Lookup](https://www.adventurelookup.com/adventures) - Searchable collection of tabletop RPG adventures
 
 
 ## Character Building
@@ -66,7 +65,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Dungeon Master's Vault](https://www.dungeonmastersvault.com) - **Replaces Orc Pub/Orc Pub 2**. Almost a mega resource, has lots of stuff!
 * [D&D Beyond: Characters](https://www.dndbeyond.com/characters) - Official D&D character resource
 * [D&D Beyond: Spell list](https://www.dndbeyond.com/spells) - Official D&D spell list
-* [D&D 5e Spell List](https://dnd.sharov.dev/) - Interactive D&D spell list / calculator
 * [Every Possible Stat Array](https://www.reddit.com/r/DnD/comments/2epkdi/5e_here_is_a_complete_list_of_valid_ability_score) - A list of all possible standard stat arrays using the point buy system
 * [5E Point Buy Calculator](https://chicken-dinner.com/5e/5e-point-buy.html) - A calculator for choosing stats using the point buy system
 * [Roll20 Character Builder](https://pages.roll20.net/free-dnd-character-builder) - A web-based character creation tool that uses SRD sources
@@ -78,7 +76,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Where to buy/customize figurines*
 
 * [Hero Forge Custom Figs](https://www.heroforge.com) - Design your own custom 3D miniatures for purchase with a ton of features including full color
-* [Desktop Hero](http://desktophero3d.com/) - Design your own custom 3D miniatures for purchase
+* [Titancraft](https://titancraft.com) - Design your own custom 3D miniatures for purchase
 * [Reaper Minis](https://www.reapermini.com/FigureFinder) - Very popular pre-made minis
 * [Anvl](https://anvl.co) - Custom miniatures
 * [Eldritch Foundry](https://eldritch-foundry.com/) - Even more custom miniatures
@@ -141,7 +139,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Pre-made maps of all types*
 
-* [Historic Cities](http://historic-cities.huji.ac.il/historic_cities.html) - Olde maps of real places
+* [Historic Cities](https://www.reddit.com/r/DnD/comments/63thg0/a_collection_of_around_400_historical_city_maps/) - Olde maps of real places
 
 ## Tokens
 
@@ -176,15 +174,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Foundry Virtual Tabletop](https://foundryvtt.com) - A self-hosted, modern, and developer-friendly roleplaying platform
 * [Owlbear Rodeo](https://www.owlbear.rodeo) - "The simplest way to play tabletop games online"
 * [Roll20](https://roll20.net) - A browser-based suite of tools that allows users to create and play tabletop role playing games
-
-## Updated Rules
-
-*Always more rules*
-
-* [Sage Advice Compendium](http://media.wizards.com/2016/downloads/DND/SA-Compendium.pdf)
-* [D&D Beyond: Compendium](https://www.dndbeyond.com/compendium)
-* [Monster Manual Errata 1.2](http://media.wizards.com/2016/downloads/DND/MM-Errata.pdf)
-* [Dungeon Master’s Guide Errata 1.1](http://media.wizards.com/2016/downloads/DND/DMG-Errata.pdf)
 
 ## Converter
 
@@ -233,9 +222,9 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Things to download and install*
 
-* [Fantasy Grounds](http://store.steampowered.com/app/252690)
+* [Fantasy Grounds](https://store.steampowered.com/app/1196310/Fantasy_Grounds_VTT/)
 * [RP Tools](http://www.rptools.net)
-* [Dungeonographer](http://www.dungeonographer.com/free-version)
+* [Worldographer](https://worldographer.com)
 * [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
 * [Realm Works](http://www.wolflair.com/realmworks)
@@ -253,7 +242,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Squire - Character Manager Pro](https://play.google.com/store/apps/details?id=com.herd.squire) - ![Android][android] A character sheet manager
 * [Fifth Edition Character Sheet](https://play.google.com/store/apps/details?id=com.wgkammerer.testgui.basiccharactersheet.app) - ![Android][android] A complete multiple page character sheet for a fifth edition tabletop role playing game
 * [Fight Club 5th Edition](https://itunes.apple.com/us/app/fight-club-5th-edition/id901057473?mt=8) - ![Apple][apple] A digital character sheet that can be all you need to play a Dungeons & Dragons 5th Edition game
-* [Hero Lab (IPad Only)](https://itunes.apple.com/au/app/hero-lab/id628821549?mt=8) - ![Apple][apple] Create, advance, and play Pathfinder & 5th Edition SRD characters and NPCs
 
 ## Generator
 
@@ -272,7 +260,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus) - ![Android][android]
-* [Monster Factory](https://play.google.com/store/apps/details?id=ca.splantio.splant.monsterfactory) - ![Android][android]
 
 # Audio and Music
 
