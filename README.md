@@ -94,7 +94,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [D&D Beyond: Items](https://www.dndbeyond.com/items)
 * [Magic Items by Rarity](https://media.wizards.com/2014/downloads/dnd/MagicItemsRarity_printerfriendly.pdf)
-* [Treasure Generator](https://redkatart.com/dnd5tools)
 * [Sane Magical PricesPrices](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)
 * [Mundane Item Generator](https://www.herebetaverns.com/mundane-item-generator)
 * [Adventurers League Rewards](https://docs.google.com/spreadsheets/d/1omoTExpdh7cdiq9NnfVpf6-CnAkGRbA-FMIiNaZXpvg/edit#gid=0)
@@ -115,7 +114,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 * [D&D Beyond: Monsters](https://www.dndbeyond.com/monsters)
 * [Kobold club encounter builder](https://koboldplus.club/)
-* [Poison generator](https://orteil.dashnet.org/randomgen/?gen=vMMEtKRA)
+* [Orteil's Random Generators](https://orteil.dashnet.org/randomgen) - A collection of random generators by Orteil
 * [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 * [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 * [Improved Initiative](https://improvedinitiative.app/)
@@ -160,7 +159,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Pymapper](https://pymapper.com)
 * [Dave's Mapper](https://davesmapper.com)
 * [Inkarnate](https://inkarnate.com)
-* [Pyromancers' Dungeon Painter](https://pyromancers.com/dungeon-painter-online)
 * [Village generator](https://watabou.itch.io/village-generator)
 * [One Page Dungeon generator](https://watabou.itch.io/one-page-dungeon)
 * [Medieval Fantasy City generator](https://watabou.itch.io/medieval-fantasy-city-generator)
@@ -228,7 +226,6 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Hobbyte](https://hobbyte.net)
 * [Syrinscape](https://syrinscape.com)
 * [Realm Works](https://www.wolflair.com/realmworks)
-* [Inspiration Pad Pro 3 (Random Tables)](https://www.nbos.com/products/inspiration-pad-pro/android)
 
 # Mobile Applications
 
