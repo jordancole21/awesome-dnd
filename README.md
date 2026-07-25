@@ -127,6 +127,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Name generators*
 
 * [Fantasy Name Generators](https://fantasynamegenerators.com)
+* [NameLore](https://namelore.io) - Fantasy name generator where every name comes with its meaning and real Old Norse etymology; covers elves, dwarves, dragons, cities, kingdoms, and more
 
 ## Maps
 
