@@ -219,10 +219,10 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Sly Flourish](https://www.youtube.com/user/SlyFlourish1) - Channel of the author of "Return of the lazy dungeon master"
 * [WASD20](https://www.youtube.com/user/WASD20Nate) - A hub for tabletop role-playing games and fantasy maps
 * [Taking20](https://www.youtube.com/channel/UCly0Thn_yZouwdJtg7Am62A) - A channel dedicated to role-playing games like D&D, Pathfinder, Starfinder and more
-* [Dungeon Dudes](https://www.youtube.com/@DungeonDudes)
-* [Ginny Di](https://www.youtube.com/@GinnyDi)
-* [DnD Shorts](https://www.youtube.com/@DnDShorts)
-* [Bob World Builder](https://www.youtube.com/@BobWorldBuilder)
+* [Dungeon Dudes](https://www.youtube.com/@DungeonDudes) - Creators of Dungeons of Drakkenheim, Kelly McLaughlin and Monty Martin
+* [Ginny Di](https://www.youtube.com/@GinnyDi) - Advice for tabletop players and game masters, character-building tools for creatives, music videos, and more
+* [DnD Shorts](https://www.youtube.com/@DnDShorts) - Content that aims to inspire people to check out the game
+* [Bob World Builder](https://www.youtube.com/@BobWorldBuilder) - Great videos that make D&D more fun!
 
 ## Miscellaneous
 
